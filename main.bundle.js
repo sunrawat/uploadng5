@@ -88,7 +88,7 @@ var AboutComponent = (function () {
 /***/ "../../../../../src/app/app.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "<iframe src=\"https://mumbaimirror.indiatimes.com/entertainment/tv/bigg-boss-11-live-updates-todays-full-episode-day-100-9-january-2018-arshi-khan-reenters-the-house-housemates-decide-who-is-the-meanest-of-them/articleshow/62431727.cms\" style=\"height: 98vh;width: 100%\"></iframe>\n<!-- <input type=\"text\" (keyup) = \"printName($event)\"/>\n<button (click) = \"getProfile()\">Get Profile </button>  \n\n<button (click) = \"saveProfile()\">save Profile </button>  \n\n\n<ul>\n\n    <li>\n        <a routerLink=\"/home\">home</a>\n    </li>\n    <li>\n        <a routerLink=\"/about\">about</a>\n    </li>\n    <li>\n        <a routerLink=\"/userlist\">userlist</a>\n    </li>\n\n</ul>\n\n<router-outlet></router-outlet> -->"
+module.exports = "<input type=\"text\" (keyup) = \"printName($event)\"/>\n<button (click) = \"getProfile()\">Get Profile </button>  \n\n<button (click) = \"saveProfile()\">save Profile </button>  \n\n\n<ul>\n\n    <li>\n        <a routerLink=\"/home\">home</a>\n    </li>\n    <li>\n        <a routerLink=\"/about\">about</a>\n    </li>\n    <li>\n        <a routerLink=\"/userlist\">userlist</a>\n    </li>\n\n</ul>\n\n<router-outlet></router-outlet>"
 
 /***/ }),
 
